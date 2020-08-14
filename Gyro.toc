@@ -1,0 +1,10 @@
+## Interface: 80300
+## Version: 1.2.1 (8.3)
+## Title: Gyro: Get Your Raid On!
+## Notes: Gyro lets you assign a batch of commands to be run when entering or leaving a raid.
+## SavedVariablesPerCharacter: GyroOptions
+
+VgerCore\VgerCore.lua
+
+Localization.lua
+Gyro.lua
