@@ -4,6 +4,8 @@
 ## Notes: Gyro lets you assign a batch of commands to be run when entering or leaving a raid.
 ## SavedVariablesPerCharacter: GyroOptions
 
+## X-Wago-ID: XrNkywKa
+
 VgerCore\VgerCore.lua
 
 Localization.lua
