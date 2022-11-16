@@ -1,6 +1,6 @@
-## Interface: 100000
+## Interface: 100002
 ## Title: Gyro: Get Your Raid On!
-## Version: 1.2.1 (WoW 10.0.0)
+## Version: 1.2.1
 ## Notes: Gyro lets you assign a batch of commands to be run when entering or leaving a raid.
 ## SavedVariablesPerCharacter: GyroOptions
 
