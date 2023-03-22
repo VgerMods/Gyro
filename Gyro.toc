@@ -1,4 +1,4 @@
-## Interface: 100005
+## Interface: 100007
 ## Title: Gyro: Get Your Raid On!
 ## Version: 1.2.1
 ## Notes: Gyro lets you assign a batch of commands to be run when entering or leaving a raid.
