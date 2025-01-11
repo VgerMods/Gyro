@@ -1,7 +1,7 @@
 ﻿-- Gyro: Get Your Raid On!  by Vger-Azjol-Nerub
 -- www.vgermods.com
 -- 
--- Version 1.2.1: Improved WoW 5.0 compatibility
+-- Version 1.2.1
 -- 
 ------------------------------------------------------------
 
