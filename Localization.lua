@@ -1,7 +1,6 @@
 ﻿-- Gyro: Get Your Raid On!  by Vger-Azjol-Nerub
 -- 
 -- English resources
-
 ------------------------------------------------------------
 
 
@@ -16,7 +15,7 @@ GyroLocal =
 
 	-- General messages
 	["NeedNewerVgerCoreMessage"] = "Gyro needs a newer version of VgerCore.  Please use the version of VgerCore that came with Gyro.",
-	
+
 	-- Slash commands
 	["EnabledCommand"] = "on",
 	["DisabledCommand"] = "off",
@@ -26,13 +25,13 @@ GyroLocal =
 	["BattlegroundsOnMessage"] = "Gyro: battlegrounds now count as raids.",
 	["BattlegroundsOffCommand"] = "bg off",
 	["BattlegroundsOffMessage"] = "Gyro: battlegrounds now do not count as raids.",
-	
+
 	-- Status messages
 	["EnabledMessage"] = "Gyro: raid mode on.",
 	["DisabledMessage"] = "Gyro: raid mode off.",
 	["AutoEnabledMessage"] = "Gyro: raid mode on (automatically detected).",
 	["AutoDisabledMessage"] = "Gyro: raid mode off (automatically detected).",
-	
+
 	["Usage"] = [[
 Gyro: Get Your Raid On! by Vger-Azjol-Nerub
 www.vgermods.com

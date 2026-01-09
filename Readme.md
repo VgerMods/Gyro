@@ -150,7 +150,7 @@ As of writing, Omen has a slash command to toggle the display, but not to explic
 
 * [See all of my addons](https://www.vgermods.com)
 * You can reach me on [Facebook](https://www.facebook.com/vgermods)
-* Leave a comment on [CurseForge](https://www.curseforge.com/wow/addons/pawn)
+* Leave a comment on [CurseForge](https://www.curseforge.com/wow/addons/gyro-get-your-raid-on)
 * Email vger at vgermods.com
 
 ## Updates
