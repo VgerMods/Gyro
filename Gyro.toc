@@ -4,6 +4,19 @@
 ## Notes: Gyro lets you assign a batch of commands to be run when entering or leaving a raid.
 ## SavedVariablesPerCharacter: GyroOptions
 
+## IconTexture: Interface\Icons\Spell_ChargePositive
+## Category: Other
+## Category-deDE: Anderes
+## Category-esES: Otros
+## Category-esMX: Otros
+## Category-frFR: Autre
+## Category-itIT: Altro
+## Category-koKR: 기타
+## Category-ptBR: Outro
+## Category-ruRU: Другое
+## Category-zhCN: 其它
+## Category-zhTW: 其他
+
 ## X-Wago-ID: XrNkywKa
 
 VgerCore\VgerCore.lua
